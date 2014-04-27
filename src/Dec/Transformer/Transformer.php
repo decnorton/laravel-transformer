@@ -3,6 +3,7 @@
 use Carbon\Carbon;
 use Exception;
 use Input;
+use InvalidArgumentException;
 use League\Fractal;
 use League\Fractal\Resource\Collection;
 use League\Fractal\Resource\Item;
