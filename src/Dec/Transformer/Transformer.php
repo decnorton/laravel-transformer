@@ -1,4 +1,4 @@
-<?php namespace Dec\Api\Transform;
+<?php namespace Dec\Transformer;
 
 use Carbon\Carbon;
 use Exception;
